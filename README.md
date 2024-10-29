@@ -5,6 +5,13 @@ In this project, I used using computer vision and AI to recognize the ASL alphab
 
 I collected data for ASL hand gestures through a webcam, extracting hand landmarks and classifying gestures using machine learning. The model recognizes letters from "a" to "z," with specific adaptations for letters like "J" and "Z"—for "Z," I applied modifications to handle the required hand movement accurately. Additional gestures enable users to delete last character, clear all text in the textbox, and add spaces, creating a more comprehensive and user-friendly experience.
 
+<p align="center">
+  <b>Sign Language Alphabet (a-z)</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/casterfile/ASL-Translator/blob/main/American%20Sign%20Language.png" alt="Sign Language Alphabet">
+</p>
 
 
 
